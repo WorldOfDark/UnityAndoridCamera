@@ -1,0 +1,11 @@
+AssetBundles
+Library
+Logs
+obj
+Temp
+Build*
+.vs
+APK
+/*.csproj
+/*.vsconfig
+/*.sln
